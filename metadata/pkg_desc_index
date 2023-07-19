@@ -3,3 +3,4 @@ games-util/path-of-building 2.21.1 2.24.0 2.24.0-r1 9999: An offline build plann
 gui-apps/redshift 9999: Fork of redshift with wayland support
 gui-apps/wshowkeys 9999: Displays keypresses on screen, wayland variant
 media-sound/amberol 0.9.2: Simple GUI Music Player
+x11-misc/linux-wallpaperengine 9999: Wallpaper Engine backgrounds for Linux!
