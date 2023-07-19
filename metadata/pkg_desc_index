@@ -1,6 +1,12 @@
+app-editors/neovide 0.10.3: No Nonsense Neovim Client in Rust
 app-text/kami 0.5 9999: A ln scraper to read light novels and watch anime in your terminal (Written in rust).
-games-util/path-of-building 2.21.1 2.24.0 2.24.0-r1 9999: An offline build planner for Path of Exile using PoBFrontend, LocalIdentity's fork
+games-util/path-of-building 2.21.1 2.24.0 2.24.0-r1 2.27.2 9999: An offline build planner for Path of Exile using PoBFrontend, LocalIdentity's fork
 gui-apps/redshift 9999: Fork of redshift with wayland support
 gui-apps/wshowkeys 9999: Displays keypresses on screen, wayland variant
+gui-wm/swayfx 0.2: i3-compatible Wayland window manager
+media-libs/vkbasalt 0.3.2.9: A vulkan post processing layer
 media-sound/amberol 0.9.2: Simple GUI Music Player
+sys-apps/flatpak 1.15.2: Linux application sandboxing and distribution framework
 x11-misc/linux-wallpaperengine 9999: Wallpaper Engine backgrounds for Linux!
+x11-plugins/multiload-ng 1.5.2 9999: Modern graphical system monitor for any panel
+x11-themes/kvantum 1.0.6: SVG-based theme engine for Qt5, KDE Plasma and LXQt
