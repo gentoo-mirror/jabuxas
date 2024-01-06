@@ -1,5 +1,6 @@
 app-text/kami 0.5 9999: A ln scraper to read light novels and watch anime in your terminal (Written in rust).
 games-util/path-of-building 2.21.1 2.24.0 2.24.0-r1 2.27.2 9999: An offline build planner for Path of Exile using PoBFrontend, LocalIdentity's fork
+gui-apps/gamescope 3.12.5: Efficient micro-compositor for running games
 gui-apps/redshift 9999: Fork of redshift with wayland support
 gui-apps/wshowkeys 9999: Displays keypresses on screen, wayland variant
 gui-wm/swayfx 0.2: i3-compatible Wayland window manager
